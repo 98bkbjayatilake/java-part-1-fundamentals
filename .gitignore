@@ -1,0 +1,25 @@
+# IDE - IntelliJ IDEA
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+
+# Java / Maven
+**/target/
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+**/*.log
+
+# Maven wrapper
+!**/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+Operating System
+# ====================================
+**/.DS_Store
+**/Thumbs.db
+**/*~
