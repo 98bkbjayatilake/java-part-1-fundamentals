@@ -31,11 +31,10 @@ public class Switch {
         * as the number of conditions increases.
         */
 
-        /*So above way is a one way to implement this scenario using an if statement */
-        /*You can also implement this using a switch statement and  Sometimes that's look a little bit cleaner*/
-        /*So we start with switch statements then we add parenthesis and inside this parenthesis  we add a variable.In this case role
-        * next we define block of code and in this block we add one or more case clauses
-        * So we have a case from admin ,we add a colon here */
+        /*
+         * The same logic can be implemented using a switch statement,
+         * which often results in cleaner and more structured code.
+         */
         String role="admin";
 
         /*
